@@ -1,7 +1,4 @@
-# 0x03. Caching
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Guillaume, CTO at Holberton School  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**
+
 
 ## Background Context
 In this project, you learn different caching algorithms.
@@ -37,6 +34,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 4. MRU Caching
 * [x] 5. LFU Caching
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+
